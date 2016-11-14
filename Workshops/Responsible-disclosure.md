@@ -15,7 +15,11 @@ Questions to ask:
 6) Success stories
 7) Future of responsible disclosure
 
-Participants:
+Participants: We would like to invite the following key players. (adding more>>this is draft)
+
+(Casey Ellis, Founder, BugCrowd)
+(Frans Rosen, World Renowned bounty hunter)
+(Andrew Pham, Community manager, Synack)
 
 1) Leading bug bounty hunters
 2) Companies with mature bug bounty programs (self managed)

@@ -25,6 +25,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Bjoern Kimminich  | emailed by Dinis on 27 Nov  | 
 | Brian Glas            | | doodle |
 | Bruce Jenkins         | emailed by Seba on 22nd Nov | doodle |
+| Casey Ellis | |  doodle |
 | Chetan Karande   | emailed by Dinis on 27 Nov  |  doodle |
 | Chris Campbell   |   | doodle |
 | Chris Eng  | emailed by Dinis on 27 Nov  |  doodle |
@@ -46,6 +47,7 @@ If you haven't already, add your name below and help to chose the best data by f
 | Ed Adams  | emailed by Dinis on 27 Nov  | doodle |
 | Fraser Scott |  | doodle |
 | Frank Catucci |  | doodle |
+| Frans Rosen |  | doodle |
 | Geoff Hill            | going |
 | Giorgio Fedon   | emailed by Dinis on 27 Nov  |   doodle |
 | Greg Reber            | emailed by Seba on 22nd Nov |
